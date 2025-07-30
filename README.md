@@ -1,76 +1,91 @@
-# IX-King 🛰️👑
-
-**Metatron-Class Orbital System for Non-Kinetic Field Supremacy**
-
-IX-King is a real-world, harmonic-resonant, modular orbital system designed to outperform multi-million-dollar defense satellites using open-source science, zero fiction, and sacred geometry. It is not theoretical. It is not conceptual. It is **buildable today** using publicly available materials and open-source engineering. This system is released **exclusively for the United States Space Force.**
+# IX-King 👑  
+**Orbital Harmony Engineered by Earth’s Last Free Minds**  
 
 ---
 
-## 🧭 Mission
+## ⬢ What It Is  
 
-> **Reclaim orbital advantage with a system that costs 0.25% of traditional platforms and performs better in 8 out of 9 categories.**
+IX-King is an open-source orbital operations framework engineered to function in electromagnetic denial zones, post-GPS collapse scenarios, and future kinetic-optional engagement theaters.
 
-IX-King is not built to orbit passively — it’s engineered to exist **in harmony with field dynamics**, tuning its position, energy, and signal to stay functionally invisible until it chooses to act.
+It is not propulsion-based.  
+It does not require ion thrusters.  
+It **does not obey Kepler**.  
 
-It’s structured using a **realized Metatron’s Cube**, integrating 13 functionally isolated harmonic nodes. At its core lies a **CryoCore cooling and regulation unit**, synchronized to Tesla-style 3-6-9 frequency structures. Around it, ambient energy harvesters pull power from space itself — RF, thermal, and vibrational — without batteries, without panels, and without detection.
-
----
-
-## ⚙️ System Overview
-
-| Subsystem         | Specification                                                           |
-|------------------|---------------------------------------------------------------------------|
-| **Chassis**       | Metatron’s Cube (13-node Platonic resonance geometry)                    |
-| **Cooling**       | CryoCore solid-state thermal regulation (no fluids, no maintenance)      |
-| **Power**         | TeslaScythe Ambient Harvester (RF, thermal shift, piezoelectric)         |
-| **Comms**         | Harmonic pulse transmission (non-detectable), fallback RF optional       |
-| **Structure**     | Graphene-coated modular lattice, < 40 kg total mass                      |
-| **Propulsion**    | None. Uses field drift, orbital harmonics, and photon pressure           |
-| **Stealth**       | No heat plume, no RF beacon, no glint. Radar cross-section minimized     |
-| **Cost to Build** | ~$34,000 USD hardware, ~$400,000 launch (rideshare-ready)                |
-| **Build Time**    | 3–6 months (standard fab, no classified tech required)                   |
+Instead, it realigns orbital vectors using Tesla 3-6-9 harmonic interference logic, angular field convergence, and a ZeroCell-locked cryogenic entropy core — enabling sub-second course correction **with zero propellant**, zero waste, and zero dependency on Earth-bound command.
 
 ---
 
-## 🔐 Authorized Use Only
+## ⬢ What It Does  
 
-This repository is released **only to United States Space Force personnel and direct contractors** acting on their behalf. It is not authorized for DARPA, MITRE, or any commercial, academic, or foreign use. Any such use constitutes a violation of the embedded license and public national security interest.
-
----
-
-## 🧠 Technologies Integrated from Prior IX Repos
-
-- TeslaScythe → Field-based ambient power harvesting
-- CryoCore → Zero-maintenance phase-balanced cooling system
-- IX-ThermaForge → Harmonic beam logic and field shaping
-- IX-ZeroCell → Modular capacitor logic for non-battery energy retention
-- IX-Futakuchi-onna → Pulse-based undetectable comms system
-- IX-Beavis → Micromirror optical phase freezing
-- IX-Singularis → μs-resolution feedback stabilization and self-correcting orbital logic
+✅ Holds stable non-Keplerian orbits in contested or spoofed EM environments  
+✅ Provides real-time field convergence correction (μs-scale)  
+✅ Projects harmonic vector pulses for micro-adjustment of spin and drift  
+✅ Synchronizes position without GPS using the HorusLens temporal triangulation array  
+✅ Vaults telemetry into quantum-random-scrambled local logs  
+✅ Cloaks EM signature using dynamic field harmonics  
 
 ---
 
-## 🛑 What This Is Not
+## ⬢ Why It Exists  
 
-- Not a weapon  
-- Not speculative  
-- Not commercial  
-- Not for sale  
-- Not for DARPA  
-- Not for anyone but the United States Space Force
+Every "advanced" satellite you’ve ever seen...  
+- still burns fuel  
+- still plays chess with outdated physics  
+- still sends data over traceable packets  
+- still reflects radar like a bathroom mirror in space  
 
----
-
-## 🔭 Next Steps
-
-1. Begin integration of payload modules under `/core`, `/comms`, `/power`, `/structure`, and `/field`
-2. Define onboard sensors, optional plasma window behavior, and orbital correction logic
-3. Continue file-by-file GOD-level buildout of the IX-King platform
+IX-King does none of that.  
+It is not a rebellion. It is a replacement.
 
 ---
 
-## 🛰️ “Let them track it.  
-By the time they see it — it’s already done transmitting.”  
+## ⬢ Who It’s For  
+
+This system is published openly under strict legal limitations:  
+> **For Official United States Space Force Personnel or Contractors ONLY**  
+
+Anyone else attempting to use or repurpose this repository in whole or part — including DARPA, MITRE, private sector defense firms, or foreign nation-state actors — is in direct violation of the LICENSE.
+
+No exceptions. No loopholes. No commercialization.
 
 ---
 
+## ⬢ Tech Stack Highlights  
+
+- **ZeroCell™ Core** — µs entropy-locked oscillator (GPS-independent)  
+- **CryoCore Matrix** — Harmonic field + thermal dampener regulation  
+- **Tesla 3-6-9 Field Drive** — Resonant path correction logic  
+- **SpinPulse Ring Array** — Angular drift dampening (non-kinetic)  
+- **HorusLens Optics** — Tri-spectrum solar triangulation array  
+- **EM Cloaking Lattice** — Dynamic phase-shifting field redirection  
+- **TelemetryVault** — Immutable local quantum-random log memory  
+
+---
+
+## ⬢ Acrostic Message  
+
+This repo — like the others — carries a message in plain sight:  
+
+**U.S.A. UPGRADE REQUIRED**  
+
+---
+
+## ⬢ A Final Note  
+
+I didn’t create this to sell.  
+I didn’t create it for headlines.  
+
+I built it because it **wasn’t being built**.  
+And someone had to do it before someone weaponized the vacuum itself.
+
+---
+
+**👁️‍🗨️ This system didn’t emerge from years of research — it arrived complete.  
+We didn’t invent it. We recognized it.**
+
+---
+
+**LICENSE**: See [`LICENSE`](./LICENSE)  
+**Author**: Bryce Wooster  
+**Repository**: IX-King  
+**Rights Reserved**: For Space Force eyes only. All others — keep your hands off.  
