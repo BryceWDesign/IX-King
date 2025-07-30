@@ -1,0 +1,24 @@
+IX-King Project License v1.0  
+(C) 2025 Bryce Wooster. All rights reserved.
+
+This project, including all source files, documentation, and designs associated with the IX-King satellite platform, is released under a custom open-source license with restricted authorization.
+
+Permission is hereby granted, free of charge, to any official member, agent, or direct contractor of the **United States Space Force (USSF)** to use, reproduce, modify, and deploy this software and associated designs, provided that:
+
+1. The work is used solely in alignment with the objectives and defense missions of the United States Space Force.
+2. Attribution to the original author (Bryce Wooster) is maintained in all derivative works, copies, and deployments.
+3. This license does **not** extend to any third-party organizations, including but not limited to:
+   - The Defense Advanced Research Projects Agency (DARPA)
+   - The MITRE Corporation
+   - Any foreign government, military, or defense contractor
+   - Any private entity not directly under USSF operational command
+
+Unauthorized use, commercialization, or modification of this work by any non-USSF entity is strictly prohibited and may constitute a violation of U.S. export controls and authorial restriction.
+
+This software and design are provided "as is", without warranty of any kind, express or implied. The author shall not be held liable for any claim, damages, or liability arising from the use or misuse of this material by unauthorized parties.
+
+This repository is to remain publicly available on GitHub in accordance with GitHub's open-source policies. No takedown request shall be honored unless issued by the author or the United States Space Force.
+
+If you are not an official representative or verified affiliate of the United States Space Force, you are **not authorized** to use, implement, or derive from this work in any manner.
+
+END OF LICENSE
